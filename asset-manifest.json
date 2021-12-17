@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Additionapp/static/css/main.a617e044.chunk.css",
+    "main.js": "/Additionapp/static/js/main.f8f74d13.chunk.js",
+    "main.js.map": "/Additionapp/static/js/main.f8f74d13.chunk.js.map",
+    "runtime-main.js": "/Additionapp/static/js/runtime-main.aadf3173.js",
+    "runtime-main.js.map": "/Additionapp/static/js/runtime-main.aadf3173.js.map",
+    "static/css/2.ffdf1766.chunk.css": "/Additionapp/static/css/2.ffdf1766.chunk.css",
+    "static/js/2.e7bceaea.chunk.js": "/Additionapp/static/js/2.e7bceaea.chunk.js",
+    "static/js/2.e7bceaea.chunk.js.map": "/Additionapp/static/js/2.e7bceaea.chunk.js.map",
+    "static/js/3.f8a0a2d6.chunk.js": "/Additionapp/static/js/3.f8a0a2d6.chunk.js",
+    "static/js/3.f8a0a2d6.chunk.js.map": "/Additionapp/static/js/3.f8a0a2d6.chunk.js.map",
+    "index.html": "/Additionapp/index.html",
+    "static/css/2.ffdf1766.chunk.css.map": "/Additionapp/static/css/2.ffdf1766.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/Additionapp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e7bceaea.chunk.js.LICENSE.txt": "/Additionapp/static/js/2.e7bceaea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aadf3173.js",
+    "static/css/2.ffdf1766.chunk.css",
+    "static/js/2.e7bceaea.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.f8f74d13.chunk.js"
+  ]
+}
